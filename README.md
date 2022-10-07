@@ -21,3 +21,7 @@ git reset --hard <paste commit id>
 Reference:
 https://www.bing.com/videos/search?q=git+revert+commit&docid=607989673921690192&mid=D41C72A90AA634BD364FD41C72A90AA634BD364F&view=detail&FORM=VIRE
 Git Tutorial 5: Undoing/Reverting/Resetting code changes
+
+
+GIT HUB DOCS
+https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository
